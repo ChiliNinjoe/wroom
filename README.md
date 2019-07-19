@@ -9,7 +9,7 @@ Wroom is a MVP (Minimum Viable Project)  to demonstrate a CI-Stack with Oracle A
 | Tools | Summary | 
 | --- | --- |
 | [liquibase](https://www.liquibase.org/) | To handle database migration scripts.  |
-| [utPLSQL](http://utplsql.org/)   | You should use it! |
+| [utPLSQL](http://utplsql.org/)   | Unit Tests for PL/SQL|
 | [Make](https://www.gnu.org/software/make/) | Do complex stuff in a single line of code!|
 | jq | Marries JSON and the command line |
 | [Docker](https://www.docker.com/)    | Add your entire infrastructure to the codebase  |
