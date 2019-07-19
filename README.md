@@ -4,7 +4,7 @@ This is unfortunately not very widespread in the area of database development.
 However, it is an important approach for a lean CI/CD pipeline. 
 
 
-Wroom is a MVP (Minimum Viable Project)  to demonstrate a CI-Stack with Oracle APEX
+Wroom is a MVP (Minimum Viable Project)  to demonstrate a CI/CD-Stack for the Oracle Database and Oracle APEX
 
 | Tools | Summary | 
 | --- | --- |
