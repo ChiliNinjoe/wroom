@@ -1,7 +1,7 @@
 # wroom
 Modern software projects often use many different tools. This can quickly become confusing. In order not to deal with each tool individually, a single build automation tool (e.g.: npm, make, mvn) is often used. All other tools will then be integrated into this by appropriate configuration and scripts.  These configurations are usually part of the codebase. It is then often enough to install the necessary tools and have a copy of the code base. 
 This is unfortunately not very widespread in the area of database development. 
-However, it is an important approach for a lean CI/CD pipeline. From the idea it should be sufficient to provide the build server the current codebase via Git. All further logic should be found in the codebase. Then the build server executes a single command (e.g. make test ) and everything else happens automatically.
+However, it is an important approach for a lean CI/CD pipeline. 
 
 
 Wroom is a MVP (Minimum Viable Project)  to demonstrate a CI-Stack with Oracle APEX
