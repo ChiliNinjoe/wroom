@@ -15,6 +15,7 @@ Wroom is a MVP (Minimum Viable Project)  to demonstrate a CI-Stack with Oracle A
 | Git       | You should use it! |
 | APEX+Git  | see: [APEX_EXPORT and Version Control](https://ogobrecht.github.io/posts/2018-07-25-apex-export-and-version-control) and [Automatisierter Export und Import von APEX-Anwendungen per Kommandozeile ](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/4901/index.html) | 
 | Selenium  | Needs to be done. See also here: [https://www.apextestautomation.co.uk/](https://www.apextestautomation.co.uk/)  |
+| [SEPS](https://docs.oracle.com/en/database/oracle/oracle-database/19/dbseg/configuring-authentication.html#GUID-803496D2-19C7-4F02-94EC-C13EDD8FB17B)  | Do not store passwords in scripts
 
 ## Wroom  - Install
 * configure  
