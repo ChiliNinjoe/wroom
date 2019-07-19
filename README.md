@@ -10,7 +10,8 @@ Wroom is a MVP (Minimum Viable Project)  to demonstrate a CI-Stack with Oracle A
 | --- | --- |
 | [liquibase](https://www.liquibase.org/) | To handle database migration scripts.  |
 | [utPLSQL](http://utplsql.org/)   | You should use it! |
-| WUT       | Build your own dev tool: using Bash + GNU make + jq + SQL\*Plus/SQLcl |
+| [Make](https://www.gnu.org/software/make/) | Do complex stuff in a single line of code!|
+| jq | Marries JSON and the command line |
 | [Docker](https://www.docker.com/)    | Add your entire infrastructure to the codebase  |
 | [Git](https://git-scm.com/)       | You should use it! |
 | APEX+Git  | see: [APEX_EXPORT and Version Control](https://ogobrecht.github.io/posts/2018-07-25-apex-export-and-version-control) and [Automatisierter Export und Import von APEX-Anwendungen per Kommandozeile ](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/4901/index.html) | 
