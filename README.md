@@ -8,13 +8,13 @@ Wroom is a MVP (Minimum Viable Project)  to demonstrate a CI-Stack with Oracle A
 
 | Tools | Summary | 
 | --- | --- |
-| liquibase | To handle database migration scripts.  |
-| utPLSQL   | You should use it! |
+| [liquibase](https://www.liquibase.org/) | To handle database migration scripts.  |
+| [utPLSQL](http://utplsql.org/)   | You should use it! |
 | WUT       | Build your own dev tool: using Bash + GNU make + jq + SQL\*Plus/SQLcl |
-| Docker    | Add your entire infrastructure to the codebase  |
-| Git       | You should use it! |
+| [Docker](https://www.docker.com/)    | Add your entire infrastructure to the codebase  |
+| [Git](https://git-scm.com/)       | You should use it! |
 | APEX+Git  | see: [APEX_EXPORT and Version Control](https://ogobrecht.github.io/posts/2018-07-25-apex-export-and-version-control) and [Automatisierter Export und Import von APEX-Anwendungen per Kommandozeile ](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/4901/index.html) | 
-| Selenium  | Needs to be done. See also here: [https://www.apextestautomation.co.uk/](https://www.apextestautomation.co.uk/)  |
+| [Selenium](https://www.seleniumhq.org/)  | Needs to be done. See also here: [https://www.apextestautomation.co.uk/](https://www.apextestautomation.co.uk/)  |
 | [SEPS](https://docs.oracle.com/en/database/oracle/oracle-database/19/dbseg/configuring-authentication.html#GUID-803496D2-19C7-4F02-94EC-C13EDD8FB17B)  | Do not store passwords in scripts
 
 ## Wroom  - Install
